@@ -1,0 +1,102 @@
+body
+{
+margin-top:60px;
+background-color:#eee;
+}
+div#top
+{
+width:100%;
+height:60px;
+position:fixed;
+color:#111;
+top:0px;
+left:0px;
+font-size:13px;
+text-align:center;
+line-height:60px;
+background-color:#fff;
+font-family:'Ubuntu',sans-serif;
+}
+div#topinr
+{
+width:1000px;
+height:inherit;
+float:none;
+margin:0px auto;
+}
+div#toplogo
+{
+width:45px;
+height:45px;
+color:#111;
+cursor:pointer;
+margin:7.5px 0px;
+background-image:url(https://ramity.com/fw/a/img/logo.png);
+background-size:100% 100%;
+}
+div#topmenu
+{
+width:700px;
+height:inherit;
+float:right;
+}
+div.topmenuitem,div.topmenuitemactive
+{
+width:auto;
+height:inherit;
+float:right;
+margin-left:5px;
+padding:0px 10px;
+}
+div.topmenuitemactive
+{
+/*This needs to be updated if top height changes*/
+height:58px;
+border-bottom:2px solid #728dfd;
+}
+a.topmenuitem
+{
+/*na*/
+}
+a.topmenuitem:hover
+{
+color:#728dfd;
+}
+div#content
+{
+width:100%;
+height:750px;
+margin-bottom:10px;
+font-family:'Open Sans',sans-serif;
+}
+div#contentinr
+{
+width:1000px;
+height:inherit;
+float:none;
+margin:0px auto;
+}
+h1.blogheader
+{
+padding:0px 10px;
+color:#222;
+font-size:35px;
+font-weight:normal;
+margin:10px 0px;
+padding:10px;
+border-top:1px solid #ccc;
+border-bottom:1px solid #ccc;
+}
+p.blogtextfull,p.blogtexthalf
+{
+font-size:18px;
+padding:10px;
+margin:10px 0px;
+background-color:#fff;
+border-left:5px solid #728dfd;
+}
+p.blogtexthalf
+{
+width:480px;
+margin-right:10px;
+}

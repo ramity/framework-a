@@ -7,8 +7,8 @@
 		<meta name="author" content="Lewis DB2 Brown">
 		<link href='https://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" type="text/css" href="https://ramity.com/fw/a/min.css">
-		<link rel="stylesheet" type="text/css" href="https://ramity.com/fw/a/main.css">
+		<link rel="stylesheet" type="text/css" href="min.css">
+		<link rel="stylesheet" type="text/css" href="main.css">
 	</head>
 	<body>
 		<div id="top">

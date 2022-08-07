@@ -52,7 +52,7 @@
 					You name it, I've tried it at-least once.
 					But here I am again wielding the knowledge I've learned from all my failures and successes.
 					I'm here to make my own history as a full stack web developer, broaden my horizons, and maybe thicken that wallet of mine.
-					But there's a catch 21 at my own expense: college.
+					But there's a catch 22 at my own expense: college.
 					So here I am, trying to make something in roughly less than 2 months that can rival all other social media networks at this time.
 					Myself being the only programmer. This could be an interesting challenge... Let's start shall we?
 					<br><br>
